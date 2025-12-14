@@ -12,7 +12,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("📖 AI Story Generator")
+st.title("📖 Apple AI Story Generator")
 st.write("Generate a short story on any topic using Gemini + LangChain.")
 
 # -----------------------------
