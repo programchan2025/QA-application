@@ -7,7 +7,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 # Streamlit Page Config
 # -----------------------------
 st.set_page_config(
-    page_title="AI Story Generator",
+    page_title="Apple AI Story Generator",
     page_icon="📖",
     layout="centered"
 )
